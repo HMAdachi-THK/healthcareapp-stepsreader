@@ -24,7 +24,7 @@ iPhoneヘルスケアアプリ歩数読取ツール（以下、本ツール）�
 1. Git Clone
 
    ```shell
-   git https://github.com/HMAdachi-THK/healthcareapp-stepsreader.git
+   git clone https://github.com/HMAdachi-THK/healthcareapp-stepsreader.git
    ```
 
 2. データ準備
